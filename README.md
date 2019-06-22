@@ -3,7 +3,7 @@
 A set of icons proposed by BlockOne.
 
 ## Account:
-![https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f](https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f | width=100)
+![https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f](https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f =100x100)
 
 png: [https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f](https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f)
 
