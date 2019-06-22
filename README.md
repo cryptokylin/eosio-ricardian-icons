@@ -1,9 +1,9 @@
 # EOSIO Ricardian Contract icons
 
-A set of icons proposed by BlockOne.
+A set of icons proposed by BlockOne: [eosio/eosio.contracts/contract/icons](https://github.com/EOSIO/eosio.contracts/tree/release/1.7.x/contracts/icons)
 
 ## Account:
-![https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f](https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f =100x100)
+<img src="https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f" width="100" height="100"/>
 
 png: [https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f](https://ricardian-icons.cryptokylin.io/icons/account.png#3d55a2fc3a5c20b456f5657faf666bc25ffd06f4836c5e8256f741149b0b294f)
 
@@ -63,4 +63,3 @@ png: [https://ricardian-icons.cryptokylin.io/icons/voting.png#db28cd3db6e62d4509
 
 svg: [https://ricardian-icons.cryptokylin.io/icons/voting.svg#45dba8d1cb4cf08bf5ca68c2ba9cf208ce989f0323e011f956d4c0df6748e6c2](https://ricardian-icons.cryptokylin.io/icons/voting.svg#45dba8d1cb4cf08bf5ca68c2ba9cf208ce989f0323e011f956d4c0df6748e6c2)
 
-icons are taken from: [eosio/eosio.contracts repo](https://github.com/EOSIO/eosio.contracts/tree/release/1.7.x/contracts/icons)
